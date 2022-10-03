@@ -20,12 +20,14 @@ body{
 h1{
     background: -webkit-linear-gradient(top, red,orange);
     border-radius: 30%;
-    width: 40%;
+    width: 50%;
+    height: 50%;
     margin:5px;
     float: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 39px;
+    font-size: 30px;
     color: black;
+    margin: auto;
 }
 figure{
     border-radius: 20px;
