@@ -22,14 +22,20 @@ h1{
     border-radius: 30%;
     width: 50%;
     height: 50%;
-    margin:5px;
+    margin:15px;
     float: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
     color: black;
     margin: auto;
+    text-align: center;
+    padding: 5px;
 }
-figure{
-    border-radius: 20px;
-    
+figure img{
+    border-radius: 40px;
+    border: solid 5px rgb(42, 147, 165);
+    clear: both; /*Rompe el flujo de lo elementos*/
+}
+.clear{
+    clear: both;
 }
