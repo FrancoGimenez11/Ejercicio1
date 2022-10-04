@@ -42,3 +42,8 @@ h2{
     font-family: 'Courier New', Courier, monospace;
     color: black;
 }
+.slider{
+    overflow: hidden;
+    height: 100px;
+    width: 100px;
+}
