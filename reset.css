@@ -35,7 +35,16 @@ figure img{
     border-radius: 40px;
     border: solid 5px rgb(42, 147, 165);
     clear: both; /*Rompe el flujo de lo elementos*/
+
 }
-.clear{
-    clear: both;
+h2{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: green;
+    
 }
