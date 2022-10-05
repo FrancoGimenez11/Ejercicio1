@@ -12,7 +12,7 @@ ul { padding-left: 1.4em; list-style:square; }
 q:before, q:after { content:''; }
 
 body{
-    background-color: antiquewhite;
+    background-color: rgb(219, 233, 157);
     font-size: 35,5%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
